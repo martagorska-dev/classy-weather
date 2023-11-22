@@ -1,5 +1,5 @@
 # ☀️ CLASSY WEATHER 🌧️
-> Simple weather application interactig with Geocoding API, created with React. 
+> Simple weather application interacts with the Geocoding API, created with React. 
 > Live demo [_here_](https://classy-weather-martagorska.netlify.app).
 
 ## Table of Contents
